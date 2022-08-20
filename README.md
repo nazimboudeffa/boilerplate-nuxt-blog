@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c84cbee-c719-487d-8853-f6a30e25a263/deploy-status)](https://app.netlify.com/sites/my-first-blog-boilerplate-nuxt/deploys)
+
 # my-first-blog-boilerplate-nuxt
 
 You can find the original tutorial [here](https://www.youtube.com/watch?v=1SAZMFwYUDE)
