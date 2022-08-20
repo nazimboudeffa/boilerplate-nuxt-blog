@@ -1,4 +1,6 @@
-# my-first-blog
+# my-first-blog-boilerplate-nuxt
+
+You can find the original tutorial [here](https://www.youtube.com/watch?v=1SAZMFwYUDE)
 
 ## Build Setup
 
